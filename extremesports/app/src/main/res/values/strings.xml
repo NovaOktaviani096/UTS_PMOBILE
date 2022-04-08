@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">extreme sports</string>
+    <string name="affirmation1">big wave surfing</string>
+    <string name="affirmation2">base jumping</string>
+    <string name="affirmation3">bull riding</string>
+    <string name="affirmation4">wingsuit flying</string>
+    <string name="affirmation5">slacklining</string>
+    <string name="affirmation6">cliff diving</string>
+    <string name="affirmation7">rock climbing</string>
+    <string name="affirmation8">creeking</string>
+    <string name="affirmation9">paragliding</string>
+    <string name="affirmation10">bungee jumping</string>
+</resources>
